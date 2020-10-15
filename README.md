@@ -6,6 +6,5 @@ As a system engineer in [Mohaymen ICT](https://www.mohaymen.ir/en/) I designed a
 ## Important Note
 The actual data which is provided from Mohaymen database is not available in this repository due to security issues. But the data format is depicted in the following picture
 <img src="https://github.com/alireza-shirzad/Map-JS/blob/master/Files.png" align="left" height="400" width="100" >
-<br>
 ## Map Preview
-<img src="https://github.com/alireza-shirzad/Map-JS/blob/master/Preview.png" align="left" height="800" width="400" >
+<img src="https://github.com/alireza-shirzad/Map-JS/blob/master/Preview.png" align="left" height="400" width="800" >
